@@ -1,0 +1,6 @@
+{
+  "name": "Triangle Wood Flooring",
+  "description": "Triangle Wood — Luxury architectural engineered hardwood flooring. Discover Tefnut, our 16 curated colours, and precision herringbone, chevron, and wide plank patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

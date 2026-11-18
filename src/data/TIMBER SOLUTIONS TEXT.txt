@@ -1,0 +1,989 @@
+TRIANGLE WOOD
+TIMBER ARCHITECTURE
+171-SCENE MASTER PROMPT LIBRARY
+Full-bleed architectural storytelling for exterior hardwoods and the TRIANGLE WOOD 16-color interior palette
+
+171 distinct visual briefs
+15 panoramic subcategory heroes • 156 close-up architectural scenes
+21:9 hero imagery • 16:9 detail imagery • daylight only
+Creative direction
+Ultra-luxury, Scandinavian restraint, quietly regal architecture, coastal Egypt / GCC / Europe, subtle signs of life, sunlight-led material reveal, and sustainability-conscious design language.
+15
+SUBCATEGORY HEROES156
+CLOSE-UP SCENES171
+TOTAL TITLES + BRIEFSCOUNTING NOTE  There are 15 panoramic subcategory heroes. The 12 Outdoor Living, Landscape & Structure, and Architectural Timber subcategories retain nine close-ups each (108); the three Interior subcategories use all 16 TRIANGLE WOOD palette colors (48). The master therefore contains 15 heroes + 156 close-ups = 171 total scenes.
+
+
+How to use this master
+Each scene is standalone and copy-ready. The image-generation prompt does not ask the image model to render typography; apply the title and supporting line as responsive website overlays during production.
+Scene ID  H-01 to H-15 are panoramic subcategory heroes. Close-up IDs follow the subcategory numbers, for example 1a-01 to 1a-09.
+Visual format  Heroes use 21:9 panoramic framing. All 156 close-ups use 16:9. Exterior close-ups are closer architectural views; Interior close-ups use the 16-color TRIANGLE WOOD palette and coordinated flooring.
+Project-type alternation  Exterior close-up series follow Residential ? Commercial ? Hospitality three times. Interior close-ups follow the palette order while their project types continue alternating Residential ? Commercial ? Hospitality.
+Title + hero text  Every scene has a unique lifestyle-led title and one short line of accompanying website copy.
+Material description  Each entry uses no more than two concise sentences, retaining the wood character and the key application-specific technical considerations, finish and verification notes.
+No-repeat principle  Every close-up has its own location and spatial concept. Architectural details, use cases, camera focus, and subtle life cues are varied deliberately.
+Sustainability language  The imagery may suggest traceable sourcing, repairability, low-impact finishes and efficient material use. Do not publish FSC or other certification claims unless TRIANGLE WOOD has documentation for the actual supply chain.
+Material naming and technical guardrails
+* Iroko: use the common name Iroko, commonly identified with Milicia excelsa and/or Milicia regia. It is sometimes sold as "African teak," but it is not botanical teak.
+* Cumaru: Dipteryx odorata, often marketed as "Brazilian teak" despite being a different species from true teak. It is very dense and hard, commonly reddish- to dark brown, and has interlocked grain; predrilling and movement allowances belong in the technical specification.
+* Panama Teak: interpreted here as plantation-grown Tectona grandis grown in Panama. Confirm species identity, plantation/source paperwork, grade, moisture content, treatment and supplier technical data before publishing performance or sustainability claims.
+* All structural elements - including bridges, pergolas, elevated decking, staircases, handrails and timber houses - require project-specific design and appropriate verification. The scene copy describes visual direction and specification considerations; it does not certify structural suitability.
+* No generic claim of being "environmentally friendly," carbon neutral, certified or maintenance-free should be published solely from an image brief. Ask procurement for verified origin, chain-of-custody evidence, finishes and supplier data.
+Scene index
+* 1a  OUTDOOR LIVING - Outdoor Teak Flooring / Outdoor Hardwood Decking | Hero H-01 | Close-ups 1a-01 to 1a-09
+* 1b  OUTDOOR LIVING - Decking Systems | Hero H-02 | Close-ups 1b-01 to 1b-09
+* 1c  OUTDOOR LIVING - Pergolas | Hero H-03 | Close-ups 1c-01 to 1c-09
+* 1d  OUTDOOR LIVING - Outdoor Seating | Hero H-04 | Close-ups 1d-01 to 1d-09
+* 1e  OUTDOOR LIVING - Outdoor Shower Enclosures & Privacy Screens | Hero H-05 | Close-ups 1e-01 to 1e-09
+* 2a  LANDSCAPE & STRUCTURE - Timber Structures | Hero H-06 | Close-ups 2a-01 to 2a-09
+* 2b  LANDSCAPE & STRUCTURE - Walkways | Hero H-07 | Close-ups 2b-01 to 2b-09
+* 2c  LANDSCAPE & STRUCTURE - Bridges | Hero H-08 | Close-ups 2c-01 to 2c-09
+* 2d  LANDSCAPE & STRUCTURE - Landscape Timber & Fencing | Hero H-09 | Close-ups 2d-01 to 2d-09
+* 3a  ARCHITECTURAL TIMBER - Outdoor Staircases | Hero H-10 | Close-ups 3a-01 to 3a-09
+* 3b  ARCHITECTURAL TIMBER - Exterior Handrails | Hero H-11 | Close-ups 3b-01 to 3b-09
+* 3c  ARCHITECTURAL TIMBER - Timber Houses | Hero H-12 | Close-ups 3c-01 to 3c-09
+* 4a  INTERIOR - Timber Ceiling Solutions | Hero H-13 | Close-ups 4a-01 to 4a-16
+* 4b  INTERIOR - Interior Timber Claddings | Hero H-14 | Close-ups 4b-01 to 4b-16
+* 4c  INTERIOR - Custom Timber Solutions | Hero H-15 | Close-ups 4c-01 to 4c-16
+
+
+PART A - 15 panoramic subcategory heroes
+These are immersive 21:9 scenes designed to introduce each subcategory. The framing should occupy the full desktop or mobile viewport via responsive crops, with typography layered in the website interface rather than baked into the image.
+H-01  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  A Morning Along the Waterline
+HERO TEXT  TRIANGLE WOOD, sea-side serenity.
+MATERIAL DESCRIPTION  At a secluded Mediterranean villa terrace, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+H-02  |  Decking Systems
+ON-SCREEN TITLE  A Ground for Gathering
+HERO TEXT  TRIANGLE WOOD, layers considered.
+MATERIAL DESCRIPTION  At a sculpted outdoor living platform, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the decking system, emphasizing flush edges and transitions.
+
+H-03  |  Pergolas
+ON-SCREEN TITLE  Shade for the Unhurried Hours
+HERO TEXT  TRIANGLE WOOD, effortless shade.
+MATERIAL DESCRIPTION  At a contemporary coastal garden pavilion, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the pergola, emphasizing rhythmic beams and soft shade.
+
+H-04  |  Outdoor Seating
+ON-SCREEN TITLE  Stay for One More Moment
+HERO TEXT  TRIANGLE WOOD, made to linger.
+MATERIAL DESCRIPTION  At a low bespoke timber seating arrangement, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the outdoor seating, emphasizing tactile slats and eased edges.
+
+H-05  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  A Private Ritual in the Open Air
+HERO TEXT  TRIANGLE WOOD, private by nature.
+MATERIAL DESCRIPTION  At a refined outdoor shower court, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+H-06  |  Timber Structures
+ON-SCREEN TITLE  A Structure that Welcomes the Day
+HERO TEXT  TRIANGLE WOOD, structural harmony.
+MATERIAL DESCRIPTION  At an elegant timber-framed garden pavilion, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber structure, emphasizing exposed joints and clear rhythm.
+
+H-07  |  Walkways
+ON-SCREEN TITLE  The Longer Way through the Garden
+HERO TEXT  TRIANGLE WOOD, paths with purpose.
+MATERIAL DESCRIPTION  At a gently curving timber walkway, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the walkway, emphasizing quiet lines through planting.
+
+H-08  |  Bridges
+ON-SCREEN TITLE  A Crossing that Changes the View
+HERO TEXT  TRIANGLE WOOD joins coastlines.
+MATERIAL DESCRIPTION  At a slender timber pedestrian bridge, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the bridge, emphasizing a calm span and crisp edges.
+
+H-09  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  A Boundary that Belongs to Nature
+HERO TEXT  TRIANGLE WOOD, natural privacy.
+MATERIAL DESCRIPTION  At a contemporary coastal garden, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the landscape fence, emphasizing defined boundaries and privacy.
+
+H-10  |  Outdoor Staircases
+ON-SCREEN TITLE  A Step into the View
+HERO TEXT  TRIANGLE WOOD, graceful ascent.
+MATERIAL DESCRIPTION  At an elegant exterior timber staircase, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the exterior staircase, emphasizing crisp tread lines.
+
+H-11  |  Exterior Handrails
+ON-SCREEN TITLE  A Touchpoint along the Way
+HERO TEXT  TRIANGLE WOOD, tactile guidance.
+MATERIAL DESCRIPTION  At a slender timber handrail, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the exterior handrail, emphasizing a continuous tactile profile.
+
+H-12  |  Timber Houses
+ON-SCREEN TITLE  A Home in Harmony with Its Setting
+HERO TEXT  TRIANGLE WOOD, natural warmth.
+MATERIAL DESCRIPTION  At a contemporary timber house, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber house envelope, emphasizing precise lines and deep reveals.
+
+H-13  |  Timber Ceiling Solutions
+ON-SCREEN TITLE  Morning Light above the Table
+HERO TEXT  TRIANGLE WOOD brings warmth to mornings.
+MATERIAL DESCRIPTION  In a double-height coastal breakfast atrium, TRIANGLE WOOD AMARNA oak brings warm honey-amber color and clear flowing cathedral grain to the timber ceiling, paired with matching wide plank flooring.
+
+H-14  |  Interior Timber Claddings
+ON-SCREEN TITLE  A Quiet Welcome
+HERO TEXT  TRIANGLE WOOD, a quiet welcome.
+MATERIAL DESCRIPTION  In a refined Doha design-hotel reception, TRIANGLE WOOD NAPATA walnut brings deep chocolate-brown color and rich flowing walnut grain to the interior cladding, paired with matching herringbone flooring.
+
+H-15  |  Custom Timber Solutions
+ON-SCREEN TITLE  Made for the Evening Return
+HERO TEXT  TRIANGLE WOOD shapes daily rituals.
+MATERIAL DESCRIPTION  In a quiet Atlantic-cliff retreat suite, TRIANGLE WOOD DESHRET oak brings rich russet-brown color and pronounced natural grain to the custom joinery, paired with matching chevron flooring.
+
+
+
+PART B - 156 close-up architectural scenes
+The 16:9 scenes are intentionally closer to the timber architecture. They focus on the grain, profile, joinery, transitions and tactile detail while keeping enough context to understand the space.
+1a  |  OUTDOOR LIVING  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+1a-01  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  Barefoot Before Breakfast
+HERO TEXT  TRIANGLE WOOD, barefoot mornings.
+MATERIAL DESCRIPTION  At the low threshold of a private limestone villa, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-02  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  Salt Air, Quiet Steps
+HERO TEXT  TRIANGLE WOOD, salt-air calm.
+MATERIAL DESCRIPTION  At the arrival apron of a coastal design showroom, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-03  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  Coffee at the Edge
+HERO TEXT  TRIANGLE WOOD, coffee by water.
+MATERIAL DESCRIPTION  At the private plunge-pool terrace of a boutique coastal, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-04  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  The Outdoor Room
+HERO TEXT  TRIANGLE WOOD, open-air living.
+MATERIAL DESCRIPTION  At a shaded rooftop terrace at a contemporary Gulf, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-05  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  A Pause Between Swims
+HERO TEXT  TRIANGLE WOOD, between swims.
+MATERIAL DESCRIPTION  In this coastal architectural setting, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-06  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  Late Brunch, Open Sky
+HERO TEXT  TRIANGLE WOOD, sunlit brunches.
+MATERIAL DESCRIPTION  At a quiet hydrotherapy lounge terrace at a Gulf, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-07  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  Lines Toward the Horizon
+HERO TEXT  TRIANGLE WOOD, framing horizons.
+MATERIAL DESCRIPTION  At a glass-fronted coastal family house in Portugal, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-08  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  A Slower Way Home
+HERO TEXT  TRIANGLE WOOD, softer returns.
+MATERIAL DESCRIPTION  At the waterside outdoor seating edge of a small, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1a-09  |  Outdoor Teak Flooring / Outdoor Hardwood Decking
+ON-SCREEN TITLE  Where the Day Opens
+HERO TEXT  TRIANGLE WOOD, welcome daylight.
+MATERIAL DESCRIPTION  At a cliff-edge hotel suite terrace on the Mediterranean, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to outdoor decking, emphasizing clean deck-to-stone transitions.
+
+1b  |  OUTDOOR LIVING  |  Decking Systems
+1b-01  |  Decking Systems
+ON-SCREEN TITLE  A Place to Gather
+HERO TEXT  TRIANGLE WOOD, easy gatherings.
+MATERIAL DESCRIPTION  At a terraced North Coast villa garden, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the decking system, emphasizing flush edges and transitions.
+
+1b-02  |  Decking Systems
+ON-SCREEN TITLE  The Lines That Lead Home
+HERO TEXT  TRIANGLE WOOD, a path home.
+MATERIAL DESCRIPTION  At the forecourt of a sustainable coastal office campus, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the decking system, emphasizing flush edges and transitions.
+
+1b-03  |  Decking Systems
+ON-SCREEN TITLE  Step into the Afternoon
+HERO TEXT  TRIANGLE WOOD, slow afternoons.
+MATERIAL DESCRIPTION  At a resort breakfast pavilion platform arranged, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the decking system, emphasizing flush edges and transitions.
+
+1b-04  |  Decking Systems
+ON-SCREEN TITLE  A Seamless Outdoor Room
+HERO TEXT  TRIANGLE WOOD, room-garden flow.
+MATERIAL DESCRIPTION  At a private Gulf residence rooftop, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the decking system, emphasizing flush edges and transitions.
+
+1b-05  |  Decking Systems
+ON-SCREEN TITLE  A Clear Path to the Sea
+HERO TEXT  TRIANGLE WOOD, coastal pathways.
+MATERIAL DESCRIPTION  At the outdoor dining spill-out of a contemporary seafood, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the decking system, emphasizing flush edges and transitions.
+
+1b-06  |  Decking Systems
+ON-SCREEN TITLE  The Space Between Moments
+HERO TEXT  TRIANGLE WOOD, daily pauses.
+MATERIAL DESCRIPTION  At an Arabian Gulf resort cabana court, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the decking system, emphasizing flush edges and transitions.
+
+1b-07  |  Decking Systems
+ON-SCREEN TITLE  Room for One More Chair
+HERO TEXT  TRIANGLE WOOD, room for company.
+MATERIAL DESCRIPTION  At a coastal townhouse garden in Spain, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the decking system, emphasizing flush edges and transitions.
+
+1b-08  |  Decking Systems
+ON-SCREEN TITLE  A Natural Way to Connect
+HERO TEXT  TRIANGLE WOOD, closer connections.
+MATERIAL DESCRIPTION  At a marina-side cultural venue terrace in southern France, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the decking system, emphasizing flush edges and transitions.
+
+1b-09  |  Decking Systems
+ON-SCREEN TITLE  Gathered in Daylight
+HERO TEXT  TRIANGLE WOOD, easy gatherings.
+MATERIAL DESCRIPTION  At a small cliffside hotel breakfast terrace, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the decking system, emphasizing flush edges and transitions.
+
+1c  |  OUTDOOR LIVING  |  Pergolas
+1c-01  |  Pergolas
+ON-SCREEN TITLE  A Little More Shade
+HERO TEXT  TRIANGLE WOOD, shade and sun.
+MATERIAL DESCRIPTION  In this coastal architectural setting, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-02  |  Pergolas
+ON-SCREEN TITLE  Lunch beneath the Lines
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At the shaded arrival court of a coastal architecture, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-03  |  Pergolas
+ON-SCREEN TITLE  The Afternoon Retreat
+HERO TEXT  TRIANGLE WOOD, slow afternoons.
+MATERIAL DESCRIPTION  At the outdoor dining veranda of a boutique hotel, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-04  |  Pergolas
+ON-SCREEN TITLE  Light through the Rafters
+HERO TEXT  TRIANGLE WOOD, light in balance.
+MATERIAL DESCRIPTION  At a Gulf villa's rooftop majlis terrace sheltered, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-05  |  Pergolas
+ON-SCREEN TITLE  A Table under Open Sky
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a shaded terrace, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-06  |  Pergolas
+ON-SCREEN TITLE  Shade without Closing In
+HERO TEXT  TRIANGLE WOOD, shade and sun.
+MATERIAL DESCRIPTION  At an open-air spa relaxation court at a Red, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-07  |  Pergolas
+ON-SCREEN TITLE  The Garden Pause
+HERO TEXT  TRIANGLE WOOD, garden-side calm.
+MATERIAL DESCRIPTION  At a private Portuguese coastal home's garden dining nook, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-08  |  Pergolas
+ON-SCREEN TITLE  A Quiet Place to Return
+HERO TEXT  TRIANGLE WOOD, quiet pauses.
+MATERIAL DESCRIPTION  At a small maritime museum café terrace in northern, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the pergola, emphasizing rhythmic beams and soft shade.
+
+1c-09  |  Pergolas
+ON-SCREEN TITLE  Sunlight, Simply Framed
+HERO TEXT  TRIANGLE WOOD, light in balance.
+MATERIAL DESCRIPTION  At the outdoor lounge court of a Mediterranean boutique, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the pergola, emphasizing rhythmic beams and soft shade.
+
+1d  |  OUTDOOR LIVING  |  Outdoor Seating
+1d-01  |  Outdoor Seating
+ON-SCREEN TITLE  Stay a Little Longer
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a built-in bench running, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-02  |  Outdoor Seating
+ON-SCREEN TITLE  Coffee for Two
+HERO TEXT  TRIANGLE WOOD, coffee by water.
+MATERIAL DESCRIPTION  At the outdoor waiting lounge of a premium seaside, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-03  |  Outdoor Seating
+ON-SCREEN TITLE  The Seat by the Garden
+HERO TEXT  TRIANGLE WOOD, garden-side calm.
+MATERIAL DESCRIPTION  At the shaded conversation nook of an eco-conscious boutique, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-04  |  Outdoor Seating
+ON-SCREEN TITLE  A Conversation in Shade
+HERO TEXT  TRIANGLE WOOD, shade and sun.
+MATERIAL DESCRIPTION  At a private Gulf villa's sunken courtyard majlis, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-05  |  Outdoor Seating
+ON-SCREEN TITLE  Room for Quiet Company
+HERO TEXT  TRIANGLE WOOD, rooms that breathe.
+MATERIAL DESCRIPTION  At an outdoor café reading terrace in Doha, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-06  |  Outdoor Seating
+ON-SCREEN TITLE  A Place to Watch the Tide
+HERO TEXT  TRIANGLE WOOD, sunlit calm.
+MATERIAL DESCRIPTION  At the shaded relaxation deck of a Gulf coastal, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-07  |  Outdoor Seating
+ON-SCREEN TITLE  An Easy Sunday
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a private coastal home in Mallorca, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-08  |  Outdoor Seating
+ON-SCREEN TITLE  A Moment off the Clock
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a covered outdoor reading terrace at a European, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1d-09  |  Outdoor Seating
+ON-SCREEN TITLE  Comfort in the Open Air
+HERO TEXT  TRIANGLE WOOD, quiet warmth.
+MATERIAL DESCRIPTION  At a small luxury inn's courtyard breakfast bench near, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the outdoor seating, emphasizing tactile slats and eased edges.
+
+1e  |  OUTDOOR LIVING  |  Outdoor Shower Enclosures & Privacy Screens
+1e-01  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  A Fresh Start Outdoors
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At the outdoor shower court of a private beach, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-02  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  Privacy in the Breeze
+HERO TEXT  TRIANGLE WOOD, considered privacy.
+MATERIAL DESCRIPTION  At a coastal restaurant's discreet staff rinse area, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-03  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  A Moment after the Sea
+HERO TEXT  TRIANGLE WOOD, quiet connection.
+MATERIAL DESCRIPTION  At the private rinse garden of a boutique beach, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-04  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  The Ritual of Returning
+HERO TEXT  TRIANGLE WOOD, welcome returns.
+MATERIAL DESCRIPTION  At a Gulf residence poolside shower bay, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-05  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  A Quiet Screen of Timber
+HERO TEXT  TRIANGLE WOOD, quiet pauses.
+MATERIAL DESCRIPTION  At a marina club's outdoor shower alcove serving sailing, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-06  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  A Pause between Swim and Sun
+HERO TEXT  TRIANGLE WOOD, between swims.
+MATERIAL DESCRIPTION  At a Red Sea resort's family pool changing niche, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-07  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  The Garden Shower
+HERO TEXT  TRIANGLE WOOD, garden-side calm.
+MATERIAL DESCRIPTION  At a compact seaside townhouse's open-air shower patio, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-08  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  Fresh Air, Quiet Corners
+HERO TEXT  TRIANGLE WOOD, quiet pauses.
+MATERIAL DESCRIPTION  At a public coastal sauna garden in southern Sweden, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+1e-09  |  Outdoor Shower Enclosures & Privacy Screens
+ON-SCREEN TITLE  An Everyday Retreat
+HERO TEXT  TRIANGLE WOOD, garden harmony.
+MATERIAL DESCRIPTION  At a boutique cliffside hotel's outdoor shower garden, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the shower enclosure and privacy screen, emphasizing measured gaps and privacy.
+
+2a  |  LANDSCAPE & STRUCTURE  |  Timber Structures
+2a-01  |  Timber Structures
+ON-SCREEN TITLE  A Frame for Everyday Life
+HERO TEXT  TRIANGLE WOOD, framed everyday life.
+MATERIAL DESCRIPTION  At a private coastal villa's detached garden pavilion, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-02  |  Timber Structures
+ON-SCREEN TITLE  A Pavilion for the Pause
+HERO TEXT  TRIANGLE WOOD, beneath open roofs.
+MATERIAL DESCRIPTION  At the covered arrival canopy of a marine research, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-03  |  Timber Structures
+ON-SCREEN TITLE  The Garden Gathering Place
+HERO TEXT  TRIANGLE WOOD, easy gatherings.
+MATERIAL DESCRIPTION  At a boutique eco-lodge's open breakfast pavilion positioned between, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-04  |  Timber Structures
+ON-SCREEN TITLE  A Roof beneath the Sky
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a Gulf residence's shaded courtyard frame enclosing, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-05  |  Timber Structures
+ON-SCREEN TITLE  Structure with a Softer Touch
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a waterfront restaurant's covered waiting court, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-06  |  Timber Structures
+ON-SCREEN TITLE  The Courtyard Anchor
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a desert-edge resort's communal gathering pavilion, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-07  |  Timber Structures
+ON-SCREEN TITLE  Made for Shared Hours
+HERO TEXT  TRIANGLE WOOD, quiet connection.
+MATERIAL DESCRIPTION  At a private Basque coastal house's garden studio framed, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-08  |  Timber Structures
+ON-SCREEN TITLE  A Calm Architectural Gesture
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a coastal cultural centre's sheltered exhibition porch, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2a-09  |  Timber Structures
+ON-SCREEN TITLE  A Place to Come Together
+HERO TEXT  TRIANGLE WOOD, easy company.
+MATERIAL DESCRIPTION  At a Mediterranean retreat's communal yoga pavilion opening onto, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the timber structure, emphasizing exposed joints and clear rhythm.
+
+2b  |  LANDSCAPE & STRUCTURE  |  Walkways
+2b-01  |  Walkways
+ON-SCREEN TITLE  Take the Scenic Route
+HERO TEXT  TRIANGLE WOOD, garden harmony.
+MATERIAL DESCRIPTION  At a private dune garden's narrow boardwalk joining, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the walkway, emphasizing quiet lines through planting.
+
+2b-02  |  Walkways
+ON-SCREEN TITLE  A Walk before the Day Begins
+HERO TEXT  TRIANGLE WOOD, unhurried walks.
+MATERIAL DESCRIPTION  At the public approach to a coastal design gallery, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the walkway, emphasizing quiet lines through planting.
+
+2b-03  |  Walkways
+ON-SCREEN TITLE  Step Lightly through the Garden
+HERO TEXT  TRIANGLE WOOD, light in balance.
+MATERIAL DESCRIPTION  At the meandering walkway between guest suites at, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the walkway, emphasizing quiet lines through planting.
+
+2b-04  |  Walkways
+ON-SCREEN TITLE  A Path to Clear the Mind
+HERO TEXT  TRIANGLE WOOD, guided by land.
+MATERIAL DESCRIPTION  At a Gulf villa's narrow garden walk linking, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the walkway, emphasizing quiet lines through planting.
+
+2b-05  |  Walkways
+ON-SCREEN TITLE  The Way beside the Water
+HERO TEXT  TRIANGLE WOOD, garden harmony.
+MATERIAL DESCRIPTION  At the approach route from a marina parking court, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the walkway, emphasizing quiet lines through planting.
+
+2b-06  |  Walkways
+ON-SCREEN TITLE  A Walk between Places
+HERO TEXT  TRIANGLE WOOD, unhurried walks.
+MATERIAL DESCRIPTION  At a coastal hotel's accessible boardwalk skirting a saline, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the walkway, emphasizing quiet lines through planting.
+
+2b-07  |  Walkways
+ON-SCREEN TITLE  An Easier Pace
+HERO TEXT  TRIANGLE WOOD, sunlit calm.
+MATERIAL DESCRIPTION  At a seaside home in the Algarve, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the walkway, emphasizing quiet lines through planting.
+
+2b-08  |  Walkways
+ON-SCREEN TITLE  Follow the Quiet Line
+HERO TEXT  TRIANGLE WOOD, quiet pauses.
+MATERIAL DESCRIPTION  At a cliffside arts centre in Greece, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the walkway, emphasizing quiet lines through planting.
+
+2b-09  |  Walkways
+ON-SCREEN TITLE  Every Step Finds Its Place
+HERO TEXT  TRIANGLE WOOD, graceful ascent.
+MATERIAL DESCRIPTION  At a boutique hotel's garden route, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the walkway, emphasizing quiet lines through planting.
+
+2c  |  LANDSCAPE & STRUCTURE  |  Bridges
+2c-01  |  Bridges
+ON-SCREEN TITLE  Meet on the Other Side
+HERO TEXT  TRIANGLE WOOD, garden harmony.
+MATERIAL DESCRIPTION  At a private villa's short garden bridge, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the bridge, emphasizing a calm span and crisp edges.
+
+2c-02  |  Bridges
+ON-SCREEN TITLE  Crossing into Quiet
+HERO TEXT  TRIANGLE WOOD, quiet pauses.
+MATERIAL DESCRIPTION  At a coastal university's pedestrian crossing, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the bridge, emphasizing a calm span and crisp edges.
+
+2c-03  |  Bridges
+ON-SCREEN TITLE  A Bridge for the Morning Walk
+HERO TEXT  TRIANGLE WOOD, unhurried walks.
+MATERIAL DESCRIPTION  At a boutique resort's compact bridge, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the bridge, emphasizing a calm span and crisp edges.
+
+2c-04  |  Bridges
+ON-SCREEN TITLE  The View from Halfway
+HERO TEXT  TRIANGLE WOOD, closer views.
+MATERIAL DESCRIPTION  At a Gulf residence's garden bridge crossing a narrow, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the bridge, emphasizing a calm span and crisp edges.
+
+2c-05  |  Bridges
+ON-SCREEN TITLE  One Step beyond the Garden
+HERO TEXT  TRIANGLE WOOD, garden-side calm.
+MATERIAL DESCRIPTION  At a waterfront visitor centre's timber span, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the bridge, emphasizing a calm span and crisp edges.
+
+2c-06  |  Bridges
+ON-SCREEN TITLE  A Gentle Connection
+HERO TEXT  TRIANGLE WOOD, closer connections.
+MATERIAL DESCRIPTION  At an island resort's pedestrian bridge, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the bridge, emphasizing a calm span and crisp edges.
+
+2c-07  |  Bridges
+ON-SCREEN TITLE  The Crossing at Low Tide
+HERO TEXT  TRIANGLE WOOD, connected places.
+MATERIAL DESCRIPTION  At a Portuguese coastal home's footbridge, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the bridge, emphasizing a calm span and crisp edges.
+
+2c-08  |  Bridges
+ON-SCREEN TITLE  A Path across the Water
+HERO TEXT  TRIANGLE WOOD, guided by land.
+MATERIAL DESCRIPTION  At a maritime heritage centre's short bridge across, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the bridge, emphasizing a calm span and crisp edges.
+
+2c-09  |  Bridges
+ON-SCREEN TITLE  Where Two Shores Meet
+HERO TEXT  TRIANGLE WOOD, coastal living.
+MATERIAL DESCRIPTION  At a Scandinavian coastal retreat's curved bridge above, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the bridge, emphasizing a calm span and crisp edges.
+
+2d  |  LANDSCAPE & STRUCTURE  |  Landscape Timber & Fencing
+2d-01  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  A Garden of Your Own
+HERO TEXT  TRIANGLE WOOD, garden-side calm.
+MATERIAL DESCRIPTION  At a private garden fence stepping gently, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-02  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  Boundaries with Breathing Room
+HERO TEXT  TRIANGLE WOOD, rooms that breathe.
+MATERIAL DESCRIPTION  At the planted perimeter of a seaside conference centre, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-03  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  A Line along the Landscape
+HERO TEXT  TRIANGLE WOOD, garden harmony.
+MATERIAL DESCRIPTION  At a boutique resort's suite garden, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-04  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  Privacy without Heaviness
+HERO TEXT  TRIANGLE WOOD, considered privacy.
+MATERIAL DESCRIPTION  At a Gulf villa's privacy fence, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-05  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  The Garden Edge
+HERO TEXT  TRIANGLE WOOD, garden-side calm.
+MATERIAL DESCRIPTION  At a seafood restaurant's screened service garden, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-06  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  A Quiet Sense of Arrival
+HERO TEXT  TRIANGLE WOOD, quiet pauses.
+MATERIAL DESCRIPTION  At a resort's dune-restoration boundary using discrete timber rails, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-07  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  Room to Grow
+HERO TEXT  TRIANGLE WOOD, room to grow.
+MATERIAL DESCRIPTION  At a private house in Brittany, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-08  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  A Frame for the Green
+HERO TEXT  TRIANGLE WOOD, framed everyday life.
+MATERIAL DESCRIPTION  At a coastal public library courtyard in the Netherlands, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the landscape fence, emphasizing defined boundaries and privacy.
+
+2d-09  |  Landscape Timber & Fencing
+ON-SCREEN TITLE  A Softer Boundary
+HERO TEXT  TRIANGLE WOOD, lighter boundaries.
+MATERIAL DESCRIPTION  At a Mediterranean boutique hotel's herb-garden boundary, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the landscape fence, emphasizing defined boundaries and privacy.
+
+3a  |  ARCHITECTURAL TIMBER  |  Outdoor Staircases
+3a-01  |  Outdoor Staircases
+ON-SCREEN TITLE  A Few Steps to the Sea
+HERO TEXT  TRIANGLE WOOD, graceful ascent.
+MATERIAL DESCRIPTION  At a private villa's exterior stair flight linking, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the exterior staircase, emphasizing crisp tread lines.
+
+3a-02  |  Outdoor Staircases
+ON-SCREEN TITLE  The Garden on Another Level
+HERO TEXT  TRIANGLE WOOD, garden-side calm.
+MATERIAL DESCRIPTION  At the visitor stair, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the exterior staircase, emphasizing crisp tread lines.
+
+3a-03  |  Outdoor Staircases
+ON-SCREEN TITLE  Rise into the Light
+HERO TEXT  TRIANGLE WOOD, light in balance.
+MATERIAL DESCRIPTION  At the stepped garden route between guest suites, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the exterior staircase, emphasizing crisp tread lines.
+
+3a-04  |  Outdoor Staircases
+ON-SCREEN TITLE  A Stairway through Green
+HERO TEXT  TRIANGLE WOOD, graceful ascent.
+MATERIAL DESCRIPTION  At a Gulf residence's rooftop stair, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the exterior staircase, emphasizing crisp tread lines.
+
+3a-05  |  Outdoor Staircases
+ON-SCREEN TITLE  The Short Way to the Terrace
+HERO TEXT  TRIANGLE WOOD, quiet connection.
+MATERIAL DESCRIPTION  At an elevated restaurant terrace stair, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the exterior staircase, emphasizing crisp tread lines.
+
+3a-06  |  Outdoor Staircases
+ON-SCREEN TITLE  Steps Made for Slowing Down
+HERO TEXT  TRIANGLE WOOD, graceful ascent.
+MATERIAL DESCRIPTION  At an island resort's outdoor stair stepping down, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the exterior staircase, emphasizing crisp tread lines.
+
+3a-07  |  Outdoor Staircases
+ON-SCREEN TITLE  A Change in View
+HERO TEXT  TRIANGLE WOOD, closer views.
+MATERIAL DESCRIPTION  At a coastal house in Catalonia, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the exterior staircase, emphasizing crisp tread lines.
+
+3a-08  |  Outdoor Staircases
+ON-SCREEN TITLE  Up toward the Morning
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a cliffside gallery in the Algarve, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the exterior staircase, emphasizing crisp tread lines.
+
+3a-09  |  Outdoor Staircases
+ON-SCREEN TITLE  A Staircase in the Sun
+HERO TEXT  TRIANGLE WOOD, graceful ascent.
+MATERIAL DESCRIPTION  At an elegant hotel garden stair between a sea-, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the exterior staircase, emphasizing crisp tread lines.
+
+3b  |  ARCHITECTURAL TIMBER  |  Exterior Handrails
+3b-01  |  Exterior Handrails
+ON-SCREEN TITLE  A Hand on the Way
+HERO TEXT  TRIANGLE WOOD, touch of warmth.
+MATERIAL DESCRIPTION  At the exterior handrail, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-02  |  Exterior Handrails
+ON-SCREEN TITLE  The Rail beside the Sea
+HERO TEXT  TRIANGLE WOOD, steady guidance.
+MATERIAL DESCRIPTION  At the accessible terrace ramp of a coastal public, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-03  |  Exterior Handrails
+ON-SCREEN TITLE  A Better View from Here
+HERO TEXT  TRIANGLE WOOD, closer views.
+MATERIAL DESCRIPTION  At a resort cliff path, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-04  |  Exterior Handrails
+ON-SCREEN TITLE  Along the Terrace Edge
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a Gulf residence's outdoor stair handrail running, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-05  |  Exterior Handrails
+ON-SCREEN TITLE  A Natural Guide
+HERO TEXT  TRIANGLE WOOD, easy movement.
+MATERIAL DESCRIPTION  At a waterfront restaurant's raised deck handrail marking, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-06  |  Exterior Handrails
+ON-SCREEN TITLE  The Path Feels Complete
+HERO TEXT  TRIANGLE WOOD, guided by land.
+MATERIAL DESCRIPTION  At a coastal hotel's accessible pool ramp handrail, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-07  |  Exterior Handrails
+ON-SCREEN TITLE  A Touch of Warmth
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a European seaside residence's garden stair rail attached, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-08  |  Exterior Handrails
+ON-SCREEN TITLE  Follow the Horizon Line
+HERO TEXT  TRIANGLE WOOD, framing horizons.
+MATERIAL DESCRIPTION  At a coastal museum's exterior balcony rail overlooking, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the exterior handrail, emphasizing a continuous tactile profile.
+
+3b-09  |  Exterior Handrails
+ON-SCREEN TITLE  The Detail You Reach For
+HERO TEXT  TRIANGLE WOOD, daily-life calm.
+MATERIAL DESCRIPTION  At a Scandinavian coastal inn's terrace rail following, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the exterior handrail, emphasizing a continuous tactile profile.
+
+3c  |  ARCHITECTURAL TIMBER  |  Timber Houses
+3c-01  |  Timber Houses
+ON-SCREEN TITLE  Home at the Edge of the Day
+HERO TEXT  TRIANGLE WOOD, natural warmth.
+MATERIAL DESCRIPTION  At the timber-clad wing of a private coastal home, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-02  |  Timber Houses
+ON-SCREEN TITLE  A House that Breathes
+HERO TEXT  TRIANGLE WOOD, nature at home.
+MATERIAL DESCRIPTION  At the timber envelope of a low-rise coastal innovation, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-03  |  Timber Houses
+ON-SCREEN TITLE  The Return to Natural Materials
+HERO TEXT  TRIANGLE WOOD, welcome returns.
+MATERIAL DESCRIPTION  At a small timber guesthouse in a sheltered European, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-04  |  Timber Houses
+ON-SCREEN TITLE  Light Lives Here
+HERO TEXT  TRIANGLE WOOD, light in balance.
+MATERIAL DESCRIPTION  At a Gulf family house, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-05  |  Timber Houses
+ON-SCREEN TITLE  A Home beside the Coast
+HERO TEXT  TRIANGLE WOOD, natural warmth.
+MATERIAL DESCRIPTION  At a coastal restaurant housed in a timber pavilion, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-06  |  Timber Houses
+ON-SCREEN TITLE  A Quieter Kind of Luxury
+HERO TEXT  TRIANGLE WOOD, quiet pauses.
+MATERIAL DESCRIPTION  At a boutique coastal lodge formed from timber volumes, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-07  |  Timber Houses
+ON-SCREEN TITLE  Built around the View
+HERO TEXT  TRIANGLE WOOD, closer views.
+MATERIAL DESCRIPTION  At a Scandinavian holiday home on Portugal's Atlantic coast, Panama Teak brings golden-to-medium brown heartwood and clear grain with occasional darker streaks to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-08  |  Timber Houses
+ON-SCREEN TITLE  A Place to Belong
+HERO TEXT  TRIANGLE WOOD, quiet warmth.
+MATERIAL DESCRIPTION  At a contemporary coastal design office in southern France, Iroko brings golden-yellow to medium-brown tones and varied, often interlocked grain to the timber house envelope, emphasizing precise lines and deep reveals.
+
+3c-09  |  Timber Houses
+ON-SCREEN TITLE  Timber, Home, Horizon
+HERO TEXT  TRIANGLE WOOD, framing horizons.
+MATERIAL DESCRIPTION  At a timber guest villa on the Mediterranean edge, Cumaru brings reddish-brown heartwood and dense interlocked grain with occasional golden or darker streaks to the timber house envelope, emphasizing precise lines and deep reveals.
+
+4a  |  INTERIOR  |  Timber Ceiling Solutions
+4a-01  |  Timber Ceiling Solutions - TEFNUT
+ON-SCREEN TITLE  The First Light of Home
+HERO TEXT  TRIANGLE WOOD warms the morning.
+MATERIAL DESCRIPTION  In a double-height sea-facing breakfast atrium, TRIANGLE WOOD TEFNUT oak brings light natural honey-beige color and soft cathedral grain to the timber ceiling, paired with matching wide plank flooring.
+
+
+4a-02  |  Timber Ceiling Solutions - GURNAH
+ON-SCREEN TITLE  A Clearer Mind at Work
+HERO TEXT  TRIANGLE WOOD quiets the studio.
+MATERIAL DESCRIPTION  In a coastal design studio collaboration lounge, TRIANGLE WOOD GURNAH oak brings cool grey-washed color and quiet, low-contrast grain to the timber ceiling, paired with matching herringbone flooring.
+
+
+4a-03  |  Timber Ceiling Solutions - AMARNA
+ON-SCREEN TITLE  Shade for the Slow Hour
+HERO TEXT  TRIANGLE WOOD softens midday light.
+MATERIAL DESCRIPTION  In a boutique inn suite's private dressing salon, TRIANGLE WOOD AMARNA oak brings warm honey-amber color and clear flowing cathedral grain to the timber ceiling, paired with matching chevron flooring.
+
+
+4a-04  |  Timber Ceiling Solutions - NAPATA
+ON-SCREEN TITLE  Read Beneath the Grain
+HERO TEXT  TRIANGLE WOOD, quiet reading.
+MATERIAL DESCRIPTION  In a double-height courtyard-house library, TRIANGLE WOOD NAPATA walnut brings deep chocolate-brown color and rich flowing walnut grain to the timber ceiling, paired with matching wide plank flooring.
+
+
+4a-05  |  Timber Ceiling Solutions - BADARI
+ON-SCREEN TITLE  A Conversation over Coffee
+HERO TEXT  TRIANGLE WOOD, easy conversation.
+MATERIAL DESCRIPTION  In a members' club conversation salon, TRIANGLE WOOD BADARI oak brings pale sand-beige color and restrained, fine grain movement to the timber ceiling, paired with matching herringbone flooring.
+
+
+4a-06  |  Timber Ceiling Solutions - SIA
+ON-SCREEN TITLE  A Quiet Hour in Daylight
+HERO TEXT  TRIANGLE WOOD, restorative light.
+MATERIAL DESCRIPTION  In a resort botanical conservatory, TRIANGLE WOOD SIA oak brings very pale ivory color and clean, subtle grain to the timber ceiling, paired with matching chevron flooring.
+
+
+4a-07  |  Timber Ceiling Solutions - DESHRET
+ON-SCREEN TITLE  A Warm Place to Unwind
+HERO TEXT  TRIANGLE WOOD, overhead warmth.
+MATERIAL DESCRIPTION  In a Gulf residence kitchen and dining pavilion, TRIANGLE WOOD DESHRET oak brings rich russet-brown color and pronounced natural grain to the timber ceiling, paired with matching wide plank flooring.
+
+
+4a-08  |  Timber Ceiling Solutions - MENFE
+ON-SCREEN TITLE  Focus in a Quiet Room
+HERO TEXT  TRIANGLE WOOD, focused calm.
+MATERIAL DESCRIPTION  In a waterfront wellness clinic private consultation room, TRIANGLE WOOD MENFE oak brings balanced medium-brown color and warm, natural variation to the timber ceiling, paired with matching herringbone flooring.
+
+
+4a-09  |  Timber Ceiling Solutions - KUSH
+ON-SCREEN TITLE  Between Treatments
+HERO TEXT  TRIANGLE WOOD, calm check-in.
+MATERIAL DESCRIPTION  In a boutique hotel hydrotherapy transition room, TRIANGLE WOOD KUSH oak brings golden natural color and expressive cathedral grain to the timber ceiling, paired with matching chevron flooring.
+
+
+4a-10  |  Timber Ceiling Solutions - NUBIA
+ON-SCREEN TITLE  Room to Stretch into the Day
+HERO TEXT  TRIANGLE WOOD, a gentler morning.
+MATERIAL DESCRIPTION  In a private coastal villa double-height piano salon, TRIANGLE WOOD NUBIA oak brings charcoal-black stained color and subtle visible grain to the timber ceiling, paired with matching wide plank flooring.
+
+
+4a-11  |  Timber Ceiling Solutions - ATUM
+ON-SCREEN TITLE  Welcome into the Studio
+HERO TEXT  TRIANGLE WOOD welcomes ideas.
+MATERIAL DESCRIPTION  In a double-height architectural materials showroom, TRIANGLE WOOD ATUM oak brings deep smoked-brown color and layered, expressive grain figure to the timber ceiling, paired with matching herringbone flooring.
+
+
+4a-12  |  Timber Ceiling Solutions - MENTU HOTEP
+ON-SCREEN TITLE  A Pause between Chapters
+HERO TEXT  TRIANGLE WOOD, room to pause.
+MATERIAL DESCRIPTION  In a small harbor hotel lift lobby, TRIANGLE WOOD MENTU HOTEP oak brings cool taupe-greige color and understated, soft grain to the timber ceiling, paired with matching chevron flooring.
+
+
+4a-13  |  Timber Ceiling Solutions - KIYA
+ON-SCREEN TITLE  A Little Room for Music
+HERO TEXT  TRIANGLE WOOD, music in balance.
+MATERIAL DESCRIPTION  In a private meditation chamber, TRIANGLE WOOD KIYA oak brings pale, softly bleached color and calm, low-contrast grain to the timber ceiling, paired with matching wide plank flooring.
+
+
+4a-14  |  Timber Ceiling Solutions - MAYET
+ON-SCREEN TITLE  A Gallery of Everyday Things
+HERO TEXT  TRIANGLE WOOD welcomes the gallery.
+MATERIAL DESCRIPTION  In a contemporary perfumery boutique, TRIANGLE WOOD MAYET oak brings light blush-beige color and delicate washed appearance to the timber ceiling, paired with matching herringbone flooring.
+
+
+4a-15  |  Timber Ceiling Solutions - PEPI
+ON-SCREEN TITLE  Arriving at the Harbor
+HERO TEXT  TRIANGLE WOOD, harbor calm.
+MATERIAL DESCRIPTION  In a refined guesthouse private dressing suite, TRIANGLE WOOD PEPI oak brings deep warm-brown color and defined grain lines to the timber ceiling, paired with matching chevron flooring.
+
+
+4a-16  |  Timber Ceiling Solutions - EDFU
+ON-SCREEN TITLE  The Welcome Home
+HERO TEXT  TRIANGLE WOOD, calm arrival.
+MATERIAL DESCRIPTION  In a double-height sea-view entry hall, TRIANGLE WOOD EDFU oak brings coppery russet color and glowing warm undertones and natural grain to the timber ceiling, paired with matching wide plank flooring.
+
+
+4b  |  INTERIOR  |  Interior Timber Claddings
+4b-01  |  Interior Timber Claddings - TEFNUT
+ON-SCREEN TITLE  A Softer Return Home
+HERO TEXT  TRIANGLE WOOD brings warmth home.
+MATERIAL DESCRIPTION  In the double-height stair atrium of a coastal financial-services, TRIANGLE WOOD TEFNUT oak brings light natural honey-beige color and soft cathedral grain to the interior cladding, paired with matching herringbone flooring.
+
+
+4b-02  |  Interior Timber Claddings - GURNAH
+ON-SCREEN TITLE  A Place to Begin the Day
+HERO TEXT  TRIANGLE WOOD, quiet welcome.
+MATERIAL DESCRIPTION  In a boutique coastal hotel project library, TRIANGLE WOOD GURNAH oak brings cool grey-washed color and quiet, low-contrast grain to the interior cladding, paired with matching chevron flooring.
+
+
+4b-03  |  Interior Timber Claddings - AMARNA
+ON-SCREEN TITLE  The Quiet after the Sea
+HERO TEXT  TRIANGLE WOOD softens the return.
+MATERIAL DESCRIPTION  In a private villa spa arrival room, TRIANGLE WOOD AMARNA oak brings warm honey-amber color and clear flowing cathedral grain to the interior cladding, paired with matching wide plank flooring.
+
+
+4b-04  |  Interior Timber Claddings - NAPATA
+ON-SCREEN TITLE  Order at the Door
+HERO TEXT  TRIANGLE WOOD, ordered arrival.
+MATERIAL DESCRIPTION  In a marine research center visitor cloakroom, TRIANGLE WOOD NAPATA walnut brings deep chocolate-brown color and rich flowing walnut grain to the interior cladding, paired with matching herringbone flooring.
+
+
+4b-05  |  Interior Timber Claddings - BADARI
+ON-SCREEN TITLE  A Wall for Ideas
+HERO TEXT  TRIANGLE WOOD, room for ideas.
+MATERIAL DESCRIPTION  In a resort craft atelier, TRIANGLE WOOD BADARI oak brings pale sand-beige color and restrained, fine grain movement to the interior cladding, paired with matching chevron flooring.
+
+
+4b-06  |  Interior Timber Claddings - SIA
+ON-SCREEN TITLE  A More Intimate Table
+HERO TEXT  TRIANGLE WOOD grounds shared meals.
+MATERIAL DESCRIPTION  In a private coastal home workroom, TRIANGLE WOOD SIA oak brings very pale ivory color and clean, subtle grain to the interior cladding, paired with matching wide plank flooring.
+
+
+4b-07  |  Interior Timber Claddings - DESHRET
+ON-SCREEN TITLE  A Place to Think
+HERO TEXT  TRIANGLE WOOD, focused thought.
+MATERIAL DESCRIPTION  In a coastal performing-arts center music salon, TRIANGLE WOOD DESHRET oak brings rich russet-brown color and pronounced natural grain to the interior cladding, paired with matching herringbone flooring.
+
+
+4b-08  |  Interior Timber Claddings - MENFE
+ON-SCREEN TITLE  Made for Trying Things On
+HERO TEXT  TRIANGLE WOOD, refined fitting.
+MATERIAL DESCRIPTION  In a luxury hotel dressing-suite passage, TRIANGLE WOOD MENFE oak brings balanced medium-brown color and warm, natural variation to the interior cladding, paired with matching chevron flooring.
+
+
+4b-09  |  Interior Timber Claddings - KUSH
+ON-SCREEN TITLE  The Room before Rest
+HERO TEXT  TRIANGLE WOOD settles the suite.
+MATERIAL DESCRIPTION  In a private villa library window alcove, TRIANGLE WOOD KUSH oak brings golden natural color and expressive cathedral grain to the interior cladding, paired with matching wide plank flooring.
+
+
+4b-10  |  Interior Timber Claddings - NUBIA
+ON-SCREEN TITLE  A Window-side Conversation
+HERO TEXT  TRIANGLE WOOD, easy conversation.
+MATERIAL DESCRIPTION  In a contemporary coastal gallery entrance, TRIANGLE WOOD NUBIA oak brings charcoal-black stained color and subtle visible grain to the interior cladding, paired with matching herringbone flooring.
+
+
+4b-11  |  Interior Timber Claddings - ATUM
+ON-SCREEN TITLE  A Gallery in Quiet Tones
+HERO TEXT  TRIANGLE WOOD lets art breathe.
+MATERIAL DESCRIPTION  In a boutique coastal hotel screening room, TRIANGLE WOOD ATUM oak brings deep smoked-brown color and layered, expressive grain figure to the interior cladding, paired with matching chevron flooring.
+
+
+4b-12  |  Interior Timber Claddings - MENTU HOTEP
+ON-SCREEN TITLE  The Way to the Suite
+HERO TEXT  TRIANGLE WOOD guides the way.
+MATERIAL DESCRIPTION  In a private seaside house vestibule, TRIANGLE WOOD MENTU HOTEP oak brings cool taupe-greige color and understated, soft grain to the interior cladding, paired with matching wide plank flooring.
+
+
+4b-13  |  Interior Timber Claddings - KIYA
+ON-SCREEN TITLE  A Place between Indoors and Out
+HERO TEXT  TRIANGLE WOOD, indoor-outdoor calm.
+MATERIAL DESCRIPTION  In a coastal corporate retreat conservatory, TRIANGLE WOOD KIYA oak brings pale, softly bleached color and calm, low-contrast grain to the interior cladding, paired with matching herringbone flooring.
+
+
+4b-14  |  Interior Timber Claddings - MAYET
+ON-SCREEN TITLE  A Thoughtful First Impression
+HERO TEXT  TRIANGLE WOOD, thoughtful arrival.
+MATERIAL DESCRIPTION  In a design-led hotel business lounge, TRIANGLE WOOD MAYET oak brings light blush-beige color and delicate washed appearance to the interior cladding, paired with matching chevron flooring.
+
+
+4b-15  |  Interior Timber Claddings - PEPI
+ON-SCREEN TITLE  A Quiet Walk to Art
+HERO TEXT  TRIANGLE WOOD, spa-side calm.
+MATERIAL DESCRIPTION  In a private residence transition passage, TRIANGLE WOOD PEPI oak brings deep warm-brown color and defined grain lines to the interior cladding, paired with matching wide plank flooring.
+
+
+4b-16  |  Interior Timber Claddings - EDFU
+ON-SCREEN TITLE  A Wall that Holds the Evening
+HERO TEXT  TRIANGLE WOOD deepens evening calm.
+MATERIAL DESCRIPTION  In a coastal wellness club garden room, TRIANGLE WOOD EDFU oak brings coppery russet color and glowing warm undertones and natural grain to the interior cladding, paired with matching herringbone flooring.
+
+
+4c  |  INTERIOR  |  Custom Timber Solutions
+4c-01  |  Custom Timber Solutions - TEFNUT
+ON-SCREEN TITLE  A Seat by the First Light
+HERO TEXT  TRIANGLE WOOD, morning space.
+MATERIAL DESCRIPTION  In a boutique resort suite, TRIANGLE WOOD TEFNUT oak brings light natural honey-beige color and soft cathedral grain to the custom joinery, paired with matching chevron flooring.
+
+
+4c-02  |  Custom Timber Solutions - GURNAH
+ON-SCREEN TITLE  A Library of Materials
+HERO TEXT  TRIANGLE WOOD, materials at hand.
+MATERIAL DESCRIPTION  In a private residence materials room, TRIANGLE WOOD GURNAH oak brings cool grey-washed color and quiet, low-contrast grain to the custom joinery, paired with matching wide plank flooring.
+
+
+4c-03  |  Custom Timber Solutions - AMARNA
+ON-SCREEN TITLE  The Welcome at the Door
+HERO TEXT  TRIANGLE WOOD welcomes each arrival.
+MATERIAL DESCRIPTION  In a coastal corporate headquarters visitor atrium, TRIANGLE WOOD AMARNA oak brings warm honey-amber color and clear flowing cathedral grain to the custom joinery, paired with matching herringbone flooring.
+
+
+4c-04  |  Custom Timber Solutions - NAPATA
+ON-SCREEN TITLE  A Kitchen Made to Gather
+HERO TEXT  TRIANGLE WOOD, shared moments.
+MATERIAL DESCRIPTION  In a luxury resort suite kitchenette, TRIANGLE WOOD NAPATA walnut brings deep chocolate-brown color and rich flowing walnut grain to the custom joinery, paired with matching chevron flooring.
+
+
+4c-05  |  Custom Timber Solutions - BADARI
+ON-SCREEN TITLE  A Detail Worth Discovering
+HERO TEXT  TRIANGLE WOOD, easy discovery.
+MATERIAL DESCRIPTION  In a private collector's dressing room, TRIANGLE WOOD BADARI oak brings pale sand-beige color and restrained, fine grain movement to the custom joinery, paired with matching wide plank flooring.
+
+
+4c-06  |  Custom Timber Solutions - SIA
+ON-SCREEN TITLE  A Ritual after the Water
+HERO TEXT  TRIANGLE WOOD supports quiet rituals.
+MATERIAL DESCRIPTION  In a commercial wellness club changing room, TRIANGLE WOOD SIA oak brings very pale ivory color and clean, subtle grain to the custom joinery, paired with matching herringbone flooring.
+
+
+4c-07  |  Custom Timber Solutions - DESHRET
+ON-SCREEN TITLE  A Calm Arrival Home
+HERO TEXT  TRIANGLE WOOD smooths coming home.
+MATERIAL DESCRIPTION  In a boutique hotel guest-suite entry, TRIANGLE WOOD DESHRET oak brings rich russet-brown color and pronounced natural grain to the custom joinery, paired with matching chevron flooring.
+
+
+4c-08  |  Custom Timber Solutions - MENFE
+ON-SCREEN TITLE  Work with a View
+HERO TEXT  TRIANGLE WOOD keeps work considered.
+MATERIAL DESCRIPTION  In a private coastal villa study, TRIANGLE WOOD MENFE oak brings balanced medium-brown color and warm, natural variation to the custom joinery, paired with matching wide plank flooring.
+
+
+4c-09  |  Custom Timber Solutions - KUSH
+ON-SCREEN TITLE  A Note to Yourself
+HERO TEXT  TRIANGLE WOOD, breakfast in balance.
+MATERIAL DESCRIPTION  In a coastal legal practice executive writing room, TRIANGLE WOOD KUSH oak brings golden natural color and expressive cathedral grain to the custom joinery, paired with matching herringbone flooring.
+
+
+4c-10  |  Custom Timber Solutions - NUBIA
+ON-SCREEN TITLE  A Place for Small Things
+HERO TEXT  TRIANGLE WOOD organizes daily essentials.
+MATERIAL DESCRIPTION  In a luxury hotel bath suite, TRIANGLE WOOD NUBIA oak brings charcoal-black stained color and subtle visible grain to the custom joinery, paired with matching chevron flooring.
+
+
+4c-11  |  Custom Timber Solutions - ATUM
+ON-SCREEN TITLE  The Art of Arriving
+HERO TEXT  TRIANGLE WOOD clarifies arrival.
+MATERIAL DESCRIPTION  In a private maritime collector's map room, TRIANGLE WOOD ATUM oak brings deep smoked-brown color and layered, expressive grain figure to the custom joinery, paired with matching wide plank flooring.
+
+
+4c-12  |  Custom Timber Solutions - MENTU HOTEP
+ON-SCREEN TITLE  An Evening at the Table
+HERO TEXT  TRIANGLE WOOD frames evening dining.
+MATERIAL DESCRIPTION  In a waterfront yacht-club private dining room, TRIANGLE WOOD MENTU HOTEP oak brings cool taupe-greige color and understated, soft grain to the custom joinery, paired with matching herringbone flooring.
+
+
+4c-13  |  Custom Timber Solutions - KIYA
+ON-SCREEN TITLE  A Familiar Evening
+HERO TEXT  TRIANGLE WOOD keeps things close.
+MATERIAL DESCRIPTION  In a boutique resort cinema suite, TRIANGLE WOOD KIYA oak brings pale, softly bleached color and calm, low-contrast grain to the custom joinery, paired with matching chevron flooring.
+
+
+4c-14  |  Custom Timber Solutions - MAYET
+ON-SCREEN TITLE  Everything in Its Place
+HERO TEXT  TRIANGLE WOOD, a warm welcome.
+MATERIAL DESCRIPTION  In a private villa stair landing, TRIANGLE WOOD MAYET oak brings light blush-beige color and delicate washed appearance to the custom joinery, paired with matching wide plank flooring.
+
+
+4c-15  |  Custom Timber Solutions - PEPI
+ON-SCREEN TITLE  The Quiet Before Check-in
+HERO TEXT  TRIANGLE WOOD, easy evenings.
+MATERIAL DESCRIPTION  In a coastal co-working studio, TRIANGLE WOOD PEPI oak brings deep warm-brown color and defined grain lines to the custom joinery, paired with matching herringbone flooring.
+
+
+4c-16  |  Custom Timber Solutions - EDFU
+ON-SCREEN TITLE  The Last Detail before Rest
+HERO TEXT  TRIANGLE WOOD, settled rest.
+MATERIAL DESCRIPTION  In a boutique hotel bedroom, TRIANGLE WOOD EDFU oak brings coppery russet color and glowing warm undertones and natural grain to the custom joinery, paired with matching chevron flooring.
+
+
+Reference notes for the material language
+The following references inform the conservative species descriptions used in this creative document. They are a starting point for wording, not substitutes for TRIANGLE WOOD supplier declarations, technical sheets or project-specific engineering.
+* Iroko - The Wood Database - Species identity, color, density/hardness references and appearance. https://www.wood-database.com/iroko/
+* Cumaru - The Wood Database - Species identity, typical color/grain, density/hardness, durability and workability considerations. https://www.wood-database.com/cumaru/
+* PanTeak - plantation teak from Panama - Supplier information identifies Panama-grown plantation teak as Tectona grandis and describes sourcing, grades and products. Confirm all claims independently before use. https://panteak.com/
+* Kew - Tectona grandis - Botanical reference and general uses / known durability context for true teak. https://powo.science.kew.org/taxon/urn%3Alsid%3Aipni.org%3Anames%3A864923-1/general-information
+* TRIANGLE WOOD visual baseline - Use the supplied "Beyond the Floor" website mockup as the direction for full-bleed imagery, minimal overlay copy, warm daylight, natural materials and refined editorial restraint. 
+Production note  Before publication, align every species, finish and technical statement with the actual stock available to TRIANGLE WOOD. For premium visual consistency, use a shared photographic grammar across the site, but create distinct set design, architecture and spatial purpose for every individual scene.
+TRIANGLE WOOD  /  TIMBER ARCHITECTURE
+
+
+
+171-SCENE MASTER  •  CREATIVE WORKING DOCUMENT     |     
+
+
+
